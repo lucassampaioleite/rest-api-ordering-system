@@ -10,10 +10,9 @@
 
 # melhorias v2 (extra-curso)
 
-- Migração do banco de dados em memória H2 para MySSQL
+- Migração do banco de dados em memória H2 para MySQL
+- Suporte a Migrations com Flyway
 
 ![Modelo Logico](./img/logic-model.png)
-
-- Suporte a Migrations com Flyway
 
 ![Tabela Migrations](./img/table_migrations.png)
