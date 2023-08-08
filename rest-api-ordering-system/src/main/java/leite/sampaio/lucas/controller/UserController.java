@@ -20,7 +20,7 @@ import leite.sampaio.lucas.services.UserService;
 
 
 @RestController
-@RequestMapping(value = "/users")
+@RequestMapping(value = "api/users")
 public class UserController {
 
 	@Autowired 

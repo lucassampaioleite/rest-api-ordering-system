@@ -13,7 +13,7 @@ import leite.sampaio.lucas.entities.Order;
 import leite.sampaio.lucas.services.OrderService;
 
 @RestController
-@RequestMapping(value = "/orders")
+@RequestMapping(value = "api/orders")
 public class OrderController {
 
 	@Autowired

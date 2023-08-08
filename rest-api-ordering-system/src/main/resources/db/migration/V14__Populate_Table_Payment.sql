@@ -1,0 +1,2 @@
+INSERT INTO `tb_payment` VALUES 
+	('2019-06-20 21:53:07.000000',1);

@@ -13,7 +13,7 @@ import leite.sampaio.lucas.entities.Category;
 import leite.sampaio.lucas.services.CategoryService;
 
 @RestController
-@RequestMapping(value = "/categories")
+@RequestMapping(value = "api/categories")
 public class CategoryController {
 
 	@Autowired

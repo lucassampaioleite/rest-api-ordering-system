@@ -14,7 +14,7 @@ import leite.sampaio.lucas.services.ProductService;
 
 
 @RestController
-@RequestMapping(value = "/products")
+@RequestMapping(value = "api/products")
 public class ProductController {
 
 	@Autowired 

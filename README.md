@@ -6,4 +6,14 @@
 
 ![Diagrama UML com as classes "Order", "OrderItem", "Client, "Product" e "OrderStatus"](https://i.imgur.com/hDXtIv6.png)
 
-- Para implementatação foi utilizada a linguagem JAVA com mapeamento relacional usando JPA/Hibernate e banco de dados MySQL.
+- Para implementatação foi utilizada a linguagem JAVA com mapeamento relacional usando JPA/Hibernate e banco de dados em memória H2.
+
+# melhorias v2 (extra-curso)
+
+- Migração do banco de dados em memória H2 para MySSQL
+
+![Modelo Logico](./img/logic-model.png)
+
+- Suporte a Migrations com Flyway
+
+![Tabela Migrations](./img/table_migrations.png)
